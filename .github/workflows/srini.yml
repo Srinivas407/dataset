@@ -1,4 +1,4 @@
-name: Scheduled Workflow
+name: Srini_workflow
 
 # Trigger workflow using a schedule
 on:
